@@ -1,0 +1,4 @@
+{
+    "AppName":"MyApp",
+    "EntryPoint":"Src/View/home.html"
+}
